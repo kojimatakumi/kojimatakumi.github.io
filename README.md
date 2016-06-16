@@ -1,0 +1,8 @@
+kojimatakumi
+====
+
+GitHubのテスト
+
+##メンバー
+
+*kojimatakumimember
